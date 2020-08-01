@@ -1,0 +1,1 @@
+These are Java Script tasks that I solve for training, tasks are taken from the site http://old.code.mu/tasks/javascript/base/osnovy-yazyka-javascript-dlya-novichkov.html
